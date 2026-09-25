@@ -1,9 +1,5 @@
 # Password Strength Checker
 
-## Video URL
-
-https://youtu.be/TBkurlXUnGY?si=MBtGMh2V33Qaw5iC
-
 ## Description
 
 Password Strength Checker is a command-line Python application that evaluates the strength of a password and can also generate secure passwords.
